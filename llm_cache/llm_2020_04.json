@@ -1,0 +1,10 @@
+{
+  "supply_disruption_score": 0.75,
+  "export_policy_signal": "neutral",
+  "sentiment_score": -0.55,
+  "production_outlook": "moderate_decline",
+  "demand_signal": "weak",
+  "confidence": 0.78,
+  "year": 2020,
+  "month": 4
+}

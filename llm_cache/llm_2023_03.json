@@ -1,0 +1,10 @@
+{
+  "supply_disruption_score": 0.1,
+  "export_policy_signal": "neutral",
+  "sentiment_score": 0.3,
+  "production_outlook": "moderate_growth",
+  "demand_signal": "strong",
+  "confidence": 0.82,
+  "year": 2023,
+  "month": 3
+}

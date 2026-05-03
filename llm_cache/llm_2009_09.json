@@ -1,0 +1,10 @@
+{
+  "supply_disruption_score": 0.1,
+  "export_policy_signal": "neutral",
+  "sentiment_score": 0.0,
+  "production_outlook": "flat",
+  "demand_signal": "moderate",
+  "confidence": 0.35,
+  "year": 2009,
+  "month": 9
+}

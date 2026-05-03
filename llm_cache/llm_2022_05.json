@@ -1,0 +1,10 @@
+{
+  "supply_disruption_score": 0.92,
+  "export_policy_signal": "ban",
+  "sentiment_score": 0.88,
+  "production_outlook": "flat",
+  "demand_signal": "strong",
+  "confidence": 0.91,
+  "year": 2022,
+  "month": 5
+}
