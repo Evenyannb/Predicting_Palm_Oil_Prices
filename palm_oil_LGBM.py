@@ -24,9 +24,7 @@ import matplotlib.dates as mdates
 
 warnings.filterwarnings("ignore", category=UserWarning)
 
-# ── optional: path to your own price CSV ────────────────────────────────────
-# Expected format: two columns — "date" (YYYY-MM-DD) and "price" (USD/tonne)
-# Leave as None to auto-download from World Bank
+# path to your own if needed
 PRICE_CSV = None
 
 # Use v2 features if available (weather + LLM + econ), else fall back to v1
